@@ -1,7 +1,7 @@
 # Fine-Tuning Phi-2 for Abstractive Summarization on XSum
 
-Colab Link
-**https://colab.research.google.com/drive/1mVxf5UX8cxmxvwRubKgmvND1HFrDU1U9?usp=sharing**
+Drive link for full model output: 
+**https://drive.google.com/drive/folders/1eu_hNKH68tIpLsoRg1ZAq-tNHo_j9FDq?usp=drive_link**
 
 
 ## Group Information
