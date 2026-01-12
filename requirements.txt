@@ -1,0 +1,29 @@
+# Core
+python>=3.8
+
+# PyTorch (CUDA support handled separately)
+torch>=2.0
+torchvision
+torchaudio
+
+# Hugging Face ecosystem
+transformers>=4.36.0
+datasets>=2.14.0
+accelerate>=0.25.0
+evaluate>=0.4.0
+
+# Summarization metrics
+rouge-score>=0.1.2
+
+# Parameter-efficient fine-tuning
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# Utilities
+sentencepiece>=0.1.99
+numpy
+tqdm
+
+# Notebook support
+jupyter
+notebook
